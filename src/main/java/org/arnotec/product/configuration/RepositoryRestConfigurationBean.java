@@ -1,4 +1,4 @@
-package org.arnotec.product.repository;
+package org.arnotec.product.configuration;
 
 import org.arnotec.product.entity.Product;
 import org.springframework.context.annotation.Configuration;
